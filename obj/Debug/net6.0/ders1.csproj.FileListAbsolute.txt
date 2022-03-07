@@ -1,0 +1,15 @@
+C:\Users\NatoHUB\Desktop\Ders1\ders1\bin\Debug\net6.0\ders1.exe
+C:\Users\NatoHUB\Desktop\Ders1\ders1\bin\Debug\net6.0\ders1.deps.json
+C:\Users\NatoHUB\Desktop\Ders1\ders1\bin\Debug\net6.0\ders1.runtimeconfig.json
+C:\Users\NatoHUB\Desktop\Ders1\ders1\bin\Debug\net6.0\ders1.dll
+C:\Users\NatoHUB\Desktop\Ders1\ders1\bin\Debug\net6.0\ders1.pdb
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.csproj.AssemblyReference.cache
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.AssemblyInfoInputs.cache
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.AssemblyInfo.cs
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.csproj.CoreCompileInputs.cache
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.dll
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\refint\ders1.dll
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.pdb
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ders1.genruntimeconfig.cache
+C:\Users\NatoHUB\Desktop\Ders1\ders1\obj\Debug\net6.0\ref\ders1.dll
